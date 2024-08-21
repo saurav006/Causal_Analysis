@@ -1,1 +1,3 @@
 # Causal_Analysis
+
+This repository hosts the project analyzing educational outcomes by examining the impact of education quality and degree level on median earnings. Using R code, data was preprocessed, and causal inference methods like PSM and DiD were applied. The analysis revealed significant insights into how education quality and regional differences affect earnings. Key metrics, including Average Treatment Effect and regional disparities, were used to guide tailored policy recommendations. The repository includes detailed documentation on data preprocessing, causal inference techniques used, and instructions on how to replicate the analysis
